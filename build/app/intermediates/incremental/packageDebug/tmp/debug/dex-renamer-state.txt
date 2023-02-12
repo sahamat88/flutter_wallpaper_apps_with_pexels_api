@@ -1,0 +1,4 @@
+#Mon Nov 28 00:11:59 BDT 2022
+base.0=D\:\\Flutter\\Practice\\wallpaper_app\\wallpaper_apps\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
